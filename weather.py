@@ -144,4 +144,4 @@ while True:
     check_alerts()
     visualize_daily_summary()
 
-    time.sleep(3)  # Sleep for 5 minutes
+    time.sleep(300)  # Sleep for 5 minutes
